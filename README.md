@@ -159,18 +159,19 @@ This project was developed as an exploration of:
 
 ------------------------------------------------------------
 
-KEYWORDS (For Search Optimization)
+KEYWORDS 
 
-Muhammad Auffa Hakim Aditya
-Sentiment Analysis Indonesia
-Indonesian NLP Project
-Machine Learning Indonesia
-Deep Learning Indonesia
-Genshin Impact Sentiment Analysis
-TF-IDF SVM Indonesia
-Word2Vec LSTM Indonesia
-Text Classification Project
-NLP Portfolio Project
+
+- Muhammad Auffa Hakim Aditya
+- Sentiment Analysis Indonesia
+- Indonesian NLP Project
+- Machine Learning Indonesia
+- Deep Learning Indonesia
+- Genshin Impact Sentiment Analysis
+- TF-IDF SVM
+- Word2Vec LSTM
+- Text Classification
+- NLP Portfolio Project
 
 ------------------------------------------------------------
 
